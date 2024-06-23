@@ -1,4 +1,4 @@
-https://youtu.be/3wLqsRLvV-c
+### https://youtu.be/3wLqsRLvV-c
 
 # Mevcut ve Gelecekteki Yapay Zeka Türleri
 ## Zayıf Yapay Zeka
