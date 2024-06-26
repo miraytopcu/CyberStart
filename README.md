@@ -42,7 +42,7 @@
 
 [Bitdefender Gerçek Zamanlı Siber Tehdit Haritası](https://threatmap.bitdefender.com/)
 
-[]()
+[Siber Güvenliğin 10 Adımı](https://www.ncsc.gov.uk/files/2021-10-steps-to-cyber-security-infographic.pdf)
 
 []()
 
