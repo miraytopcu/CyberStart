@@ -18,4 +18,16 @@
 
 [bulut bilişim teknolojisi](https://bundles.yourlearning.ibm.com/skills/learn/assets/JYNVQZYDVRRR3423/Cloud%20Computing%20Terminology_tr-TR.pdf)
 
+[bitcoin](https://www.youtube.com/watch?v=kubGCSj5y3k&list=PLpQQipWcxwt_cocZHpKNRr2cTs5n2nL2p&index=11)
+[blokchain teknolojisi](https://www.forbes.com/sites/quora/2019/05/29/what-do-people-misunderstand-about-blockchain-technology/#2bd45f245e39)
+[blokchain kariyer](https://bundles.yourlearning.ibm.com/skills/learn/assets/WWZNWPZNQPQV2YRK/Blockchain_Infographic_tr.pdf)
+[hyperledger nedir](https://blockgeeks.com/guides/hyperledger/)
+[ethereum nedir](https://blockgeeks.com/guides/ethereum/)
+[bitcoin nedir](https://blockgeeks.com/guides/what-is-bitcoin/)
+[blokchain sözlük](https://bundles.yourlearning.ibm.com/skills/learn/assets/PZDYNVGRWJEZ26AV/Blockchain_glossary_tr-TR.pdf)
+[how to become a blokchain developer](https://blockgeeks.com/guides/blockchain-developer/)
+[]()
+[]()
+[]()
+[]()
 
