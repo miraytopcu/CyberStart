@@ -36,6 +36,30 @@
 
 [Nesnelerin İnterneti kullanım senaryoları](https://bundles.yourlearning.ibm.com/skills/learn/assets/PZDYDXMKEDQZ2ND3/IoT%20use%20cases_The%20Internet%20of%20Things%20in%20action_Article_tr-TR.pdf)
 
+[Kaspersky Gerçek Zamanlı Siber Tehdit Haritası](https://cybermap.kaspersky.com/)
+
+[Fortinet Tehdit Sayfası](https://threatmap.fortiguard.com/)
+
+[Bitdefender Gerçek Zamanlı Siber Tehdit Haritası](https://threatmap.bitdefender.com/)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 []()
 
 []()
