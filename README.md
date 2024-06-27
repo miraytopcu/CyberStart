@@ -46,6 +46,54 @@
 
 [tasarım odaklı düşünme](https://bundles.yourlearning.ibm.com/skills/learn/assets/GYEGYJDPZRZX653D/Design_Thinking_Infographic_tr.pdf)
 
+[National Institute of Standards and Technology (NIST)](https://www.nist.gov/topics/cybersecurity)
+
+[National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/)
+
+[Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
+
+[Information Systems Security Association (ISSA)](https://www.issa.org/)
+
+[Women in Cybersecurity (WiCyS)](https://www.wicys.org/about)
+
+[Forum of Incident Response and Security Teams (FIRST)](https://www.first.org/)
+
+[Cybersecurity Ventures](https://cybersecurityventures.com/)
+
+[Security Intelligence](https://securityintelligence.com/)
+
+[SC Media](https://www.scmagazine.com/about-sc-media/)
+
+[Wired Threat Level](https://www.wired.com/category/threatlevel/)
+
+[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
+
+[Krebs on Security](https://krebsonsecurity.com/)
+
+[Graham Cluley](https://www.grahamcluley.com/)
+
+[Recorded Future](https://www.recordedfuture.com/blog/)
+
+[Cyber Security Body Of Knowledge (Cybok)](https://www.cybok.org/)
+
+[SANS Institute](https://www.sans.org/)
+
+[ bilgi güvenliği eğitimi](https://www.sans.org/find-training/)
+
+[ güvenlik sertifikasyonu](https://www.giac.org/)
+
+[IBM Security Learning Academy](https://www.securitylearningacademy.com/)
+
+[ Kurs kataloğunu](https://www.securitylearningacademy.com/local/navigator/index.php)
+
+[Ulusal Standartlar ve Teknoloji Enstitüsü (NIST)]()
+
+[]()
+
+[]()
+
+[]()
+
 []()
 
 []()
