@@ -44,7 +44,7 @@
 
 [Siber Güvenliğin 10 Adımı](https://www.ncsc.gov.uk/files/2021-10-steps-to-cyber-security-infographic.pdf)
 
-[]()
+[tasarım odaklı düşünme](https://bundles.yourlearning.ibm.com/skills/learn/assets/GYEGYJDPZRZX653D/Design_Thinking_Infographic_tr.pdf)
 
 []()
 
